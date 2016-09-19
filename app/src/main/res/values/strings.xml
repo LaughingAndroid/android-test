@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string name="sample_activity_content">示例Activity,添加Activity可以参考这个界面</string>
+</resources>

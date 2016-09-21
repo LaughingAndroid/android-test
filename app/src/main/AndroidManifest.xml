@@ -21,6 +21,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".sample.SampleActivity"/>
+        <activity android:name=".espresso.EspressoActivity">
+        </activity>
     </application>
 
 </manifest>

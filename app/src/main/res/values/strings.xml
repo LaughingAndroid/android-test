@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">AndroidDemo</string>
     <string name="sample_activity_content">示例Activity,添加Activity可以参考这个界面</string>
+
+    <string name="lib_request_permission_title">权限请求</string>
+    <string name="lib_dialog_ok">确定</string>
+    <string name="lib_request_contacts_title">请求通讯录</string>
+    <string name="lib_request_camera_title">请求摄像头</string>
+    <string name="lib_request_location_title">请求位置</string>
+    <string name="espresso_add">新增</string>
+    <string name="espresso_del">删除</string>
 </resources>
